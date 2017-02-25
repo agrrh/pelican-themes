@@ -239,3 +239,9 @@ figure.floatcenter, .align-center {
 .gap-left {
   margin-left: 10px;
 }
+
+img[alt=preview] {
+    width: 40%;
+    width-max: 180px;
+    cursor: pointer;
+}
